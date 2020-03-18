@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e2407b25-057b-4adf-a2d2-1f966b14eee6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "十二生肖": {
+      "ver": "1.0.3",
+      "uuid": "00b5a62d-60f5-48c3-8201-d08620cd0b96",
+      "rawTextureUuid": "e2407b25-057b-4adf-a2d2-1f966b14eee6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 2.5,
+      "trimX": 24,
+      "trimY": 31,
+      "width": 352,
+      "height": 348,
+      "rawWidth": 400,
+      "rawHeight": 415,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
